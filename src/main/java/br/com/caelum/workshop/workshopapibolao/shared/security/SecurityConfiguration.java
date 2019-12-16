@@ -27,7 +27,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 	}
 
 	/*
-	 * login alberto => 
+	 * login alberto => eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhbGJlcnRvLnNvdXphQGNhZWx1bS5jb20uYnIifQ.ZNJLdPr-kevPFaFRZIQTRSMDtDGaTzfXsCfbDP3vNkYOiuWFvE3eR7oOWEZq0vMKbdA8w0q5Ti0wXMFSX1IVPw
 	 */
 
 	@Override
